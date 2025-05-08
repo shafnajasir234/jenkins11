@@ -10,7 +10,7 @@ number1 = float(sys.argv[1])
 number2 = float(sys.argv[2])
 
 # Function to add two numbers
-def add_numbers(num1, num):
+def add_numbers(num1, num2):
     return num1 + num2
 
 # Calculate the sum
